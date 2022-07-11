@@ -50,5 +50,15 @@ public class FacebookLoginPage {
 		createPage.click();
 	}
 	
+	public void clickOnCreatePage1()
+	{
+		createPage.click();
+	}
+	
+	public void clickOnCreatePage2()
+	{
+		createPage.click();
+	}
+	
 	
 }
