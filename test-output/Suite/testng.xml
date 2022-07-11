@@ -1,0 +1,15 @@
+
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="anotaionInTestNG.KyewordsInTestNG_InvoCount"/>
+      <class name="anotaionInTestNG.KeyWordsInTestNG_TimeOut"/>
+      <class name="testNG.LoginPageTest"/>
+      <class name="anotaionInTestNG.TestNGAnotation"/>
+      <class name="anotaionInTestNG.KeyWordsInTestNG_DependOnMethod"/>
+      <class name="TestForGrow.LoginPageTest"/>
+      <class name="anotaionInTestNG.KyewordsInTestNG_Priority"/>
+      <class name="anotaionInTestNG.KeyWordsInTestNG_enabled"/>
+    </classes>
+  </test>
+</suite> 
