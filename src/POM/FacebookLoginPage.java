@@ -50,12 +50,12 @@ public class FacebookLoginPage {
 		createPage.click();
 	}
 	
-	public void clickOnCreatePage1()
+	public void githubRepo1()
 	{
 		createPage.click();
 	}
 	
-	public void clickOnCreatePage2()
+	public void gitGubRepo()
 	{
 		createPage.click();
 	}
